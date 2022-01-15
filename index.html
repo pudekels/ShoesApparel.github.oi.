@@ -1,0 +1,65 @@
+<html lang="en">
+    <link rel="stylesheet" href="Project1.css">
+<head>
+	<meta charset="UTF-8">
+	<title>My Website</title>
+	
+</head>
+<body>
+	
+	<div class="wrapper">
+			<nav class="navbar">
+				<img style="width: 160px;" src="logo.png"  >
+				<ul>
+					<li><a href="ExamFinalsPROJECT3.html">Home</a></li>
+				<li><a href="shoes.html">Shoes</a></li>
+				<li><a href="apparel.html">Apparel</a></li>
+				<li><a href="contact.html">Contact</a></li>
+				<li><a href="about.html">About Us</a></li>
+				
+				</ul>
+			</nav>
+			<br>
+			<main>
+				<p><marquee width="920" >Welcome to our Shopping Site</marquee><p>
+					
+						<button onclick="document.getElementById('id01').style.display='block'">Start Shopping Now</button>
+			
+<div id="id01" class="modal">
+	<span onclick="document.getElementById('id01').style.display='none'"
+  class="close" title="Close Modal">&times;</span>
+  
+	<!-- Modal Content -->
+	<form class="modal-content animate" action="/action_page.php">
+	  <div class="imgcontainer">
+		<img style="width: 160px;" src="file:///C:/Users/Guest_01/Downloads/CALCU%20mamens/WSTexam/logo.png" alt="Avatar" class="avatar">
+	  </div>
+  
+	  <div class="container">
+		<label style="color: rgb(247, 241, 241);" for="uname"><b>Firstname</b></label>
+		<input type="text" placeholder="Enter Username" name="uname" required>
+  
+		<label style="color: rgb(247, 241, 241);" for="psw"><b>Lastname</b></label>
+		<input type="text" placeholder="Enter Lastname" name="lname" required>
+  
+		<button style="font-size: 12px;" onclick="location.href='apparel.html'" type="button">Continue</button>
+		<label style="color: rgb(247, 241, 241);" >
+		  <input  type="checkbox" checked="checked" name="remember"> Remember me
+		</label>
+		<div class="container"  style="background-color:#080808">
+			<button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
+			
+		  </div>
+	  </div>
+	<div>			
+			<br>
+					<video width="920" height="300" controls>
+						<source src="file:///C:/Users/Guest_01/Downloads/Netkix%20%20Shoes%20and%20Apparel%20Store.mp4" type="video/mp4">
+						
+					  </video>
+			
+		</div>
+	</form>
+</body>
+</html>
+<script type="text/javascript" src="shopmain.js"></script>

@@ -1,0 +1,217 @@
+<html lang="en">
+    <link rel="stylesheet" href="Project3.css">
+<head>
+	<meta charset="UTF-8">
+	<title>My Website</title>
+	
+</head>
+<body bgcolor="black"> 
+	<div class="wrapper">
+		<nav class="navbar">
+			<img style="width: 160px;" src="logo.png"  >
+			<ul>
+				<li><a href="ExamFinalsPROJECT3.html">Home</a></li>
+				<li><a href="shoes.html">Shoes</a></li>
+				<li><a href="apparel.html">Apparel</a></li>
+				<li><a href="contact.html">Contact</a></li>
+				<li><a href="about.html">About Us</a></li>
+			
+			</ul>
+		</nav
+	
+	  </div>
+
+	  <div class="container"> 
+	
+	
+		<div id="alerts"></div>
+	 <div class="productcont">
+			 <div class="product">
+				<h3 style="color: rgb(153, 241, 11)"; class="productname">BAND-SHIRT 01</h3>
+				<p style="color: white;" >Nirvana size L</p>
+				<img style="width: 63%;" src="nirvana1.jpg">
+				<p style="color: white"; class="price">$500.05</p>
+				<button class="addtocart">Add To Cart</button>
+			 </div>
+			 <div class="product">
+				<h3 style="color: rgb(153, 241, 11)"; class="productname">BAND-SHIRT 02</h3>
+				<p style="color: white;" >Unkwon Black Band T-Shirt size L</p>
+				<img style="width: 50%;" src="tshirt4.jpg">
+				<p style="color: white"; class="price">$300.90</p>
+				<button class="addtocart">Add To Cart</button>
+			</div>
+			<div class="product">
+				<h3 style="color: rgb(153, 241, 11)"; class="productname">BAND-SHIRT 03</h3>
+				<p style="color: white;" >Unkwon Black Band T-Shirt size L</p>
+				<img style="width: 50%;" src="tshirt3.jpg">
+				<p style="color: white"; class="price">$499.05</p>
+				<button class="addtocart">Add To Cart</button>
+			</div>
+			<div class="product">
+				<h3 style="color: rgb(153, 241, 11)"; class="productname">BAND-SHIRT 04</h3>
+				<p style="color: white;" >Unkwon Band T-Shirt size L</p>
+				<img style="width: 50%;" src="tshirt2.jpg">
+				<p style="color: white"; class="price">$200.05</p>
+				<button class="addtocart">Add To Cart</button>
+			</div>
+			 </div>
+			 <div class="productcont">
+				<div class="product">
+				   <h3 style="color: rgb(11, 72, 241)"; class="productname">PLAIN T-SHIRT 01</h3>
+				   <p style="color: white;" >WHITE size L</p>
+				   <img style="width: 33%;" src="tshirtplain1.jpg">
+				   <p style="color: white"; class="price">$500.05</p>
+				   <button class="addtocart">Add To Cart</button>
+				</div>
+				<div class="product">
+					<h3 style="color: rgb(11, 72, 241)"; class="productname">PLAIN T-SHIRT 02</h3>
+				   <p style="color: white;" >YELLOW size L</p>
+				   <img style="width: 50%;" src="tshirtplain3.jpg">
+				   <p style="color: white"; class="price">$300.90</p>
+				   <button class="addtocart">Add To Cart</button>
+			   </div>
+			   <div class="product">
+				<h3 style="color: rgb(11, 72, 241)"; class="productname">PLAIN T-SHIRT 03</h3>
+				   <p style="color: white;" >RED size L</p>
+				   <img style="width: 50%;" src="tshirtplain2.jpg">
+				   <p style="color: white"; class="price">$499.05</p>
+				   <button class="addtocart">Add To Cart</button>
+			   </div>
+			   <div class="product">
+				<h3 style="color: rgb(11, 72, 241)"; class="productname">PLAIN T-SHIRT 04</h3>
+				   <p style="color: white;" >BLACK size L</p>
+				   <img style="width: 75%;" src="tshirtplain5.jpg">
+				   <p style="color: white"; class="price">$200.05</p>
+				   <button class="addtocart">Add To Cart</button>
+			   </div>
+				</div>
+				<div class="productcont">
+					<div class="product">
+					   <h3 style="color: rgb(250, 246, 0)"; class="productname">JOGGING PANTS 01</h3>
+					   <p style="color: white;" >Unisex Jogging Pants size L</p>
+					   <img style="width: 25%;" src="kindpng_2748634.png">
+					   <p style="color: white"; class="price">$330.05</p>
+					   <button class="addtocart">Add To Cart</button>
+					</div>
+					<div class="product">
+						<h3 style="color: rgb(250, 246, 0)"; class="productname">JOGGING PANTS 02</h3>
+					   <p style="color: white;" >Unisex Jogging Pants size L size L</p>
+					   <img style="width: 25%;" src="kindpng_3552962.png">
+					   <p style="color: white"; class="price">$420.90</p>
+					   <button class="addtocart">Add To Cart</button>
+				   </div>
+				   <div class="product">
+					<h3 style="color: rgb(250, 246, 0)"; class="productname">JOGGING PANTS 03</h3>
+					   <p style="color: white;" >Unisex Jogging Pants size L</p>
+					   <img style="width: 23%;" src="kindpng_4191730.png">
+					   <p style="color: white"; class="price">$409.05</p>
+					   <button class="addtocart">Add To Cart</button>
+				   </div>
+				   <div class="product">
+					<h3 style="color: rgb(250, 246, 0)"; class="productname">JOGGING PANTS 04</h3>
+					   <p style="color: white;" >Unisex Jogging Pants size L</p>
+					   <img style="width: 33%;" src="kindpng_386904%20(1).png">
+					   <p style="color: white"; class="price">$360.05</p>
+					   <button class="addtocart">Add To Cart</button>
+				   </div>
+					</div>
+					
+					<div class="productcont">
+						<div class="product">
+						   <h3 style="color: rgb(250, 0, 250)"; class="productname">SHORTS 01</h3>
+						   <p style="color: white;" >SHORTS size L</p>
+						   <img style="width: 35%;" src="PngItem_4568544.png">
+						   <p style="color: white"; class="price">$330.05</p>
+						   <button class="addtocart">Add To Cart</button>
+						</div>
+						<div class="product">
+							<h3 style="color: rgb(250, 0, 250)"; class="productname">SHORTS 02</h3>
+						   <p style="color: white;" >SHORTS size L</p>
+						   <img style="width: 50%;" src="PngItem_4568094.png">
+						   <p style="color: white"; class="price">$420.90</p>
+						   <button class="addtocart">Add To Cart</button>
+					   </div>
+					   <div class="product">
+						<h3 style="color: rgb(250, 0, 250)"; class="productname">SHORTS 03</h3>
+						<p style="color: white;" >SHORTS size L</p>
+						   <img style="width: 65%;" src="PngItem_4567687.png">
+						   <p style="color: white"; class="price">$409.05</p>
+						   <button class="addtocart">Add To Cart</button>
+					   </div>
+					   <div class="product">
+						<h3 style="color: rgb(250, 0, 250)"; class="productname">SHORTS 04</h3>
+						   <p style="color: white;" >SHORTS size L</p>	
+						   <img style="width: 54%;" src="PngItem_4567687.png">
+						   <p style="color: white"; class="price">$360.05</p>
+						   <button class="addtocart">Add To Cart</button>
+					   </div>
+						</div>
+
+						<div class="productcont">
+							<div class="product">
+							   <h3 style="color: rgb(250, 0, 0)"; class="productname">SPORT SHOES 01</h3>
+							   <p style="color: white;" > size 42</p>
+							   <img style="width: 100%;" src="img11.jpg">
+							   <p style="color: white"; class="price">$730.05</p>
+							   <button class="addtocart">Add To Cart</button>
+							</div>
+							<div class="product">
+								<h3 style="color: rgb(250, 0, 0)"; class="productname">SPORT SHOES 02</h3>
+							   <p style="color: white;" > size 42</p>
+							   <img style="width: 60%;" src="img4.jpg">
+							   <p style="color: white"; class="price">$520.90</p>
+							   <button class="addtocart">Add To Cart</button>
+						   </div>
+						   <div class="product">
+							<h3 style="color: rgb(250, 0, 0)"; class="productname">SPORT SHOES 03</h3>
+							   <p style="color: white;" > size 42</p>
+							   <img style="width: 90%;" src="img3.jpg">
+							   <p style="color: white"; class="price">$609.05</p>
+							   <button class="addtocart">Add To Cart</button>
+						   </div>
+						   <div class="product">
+							<h3 style="color: rgb(250, 0, 0)"; class="productname">SPORT SHOES 04</h3>
+							   <p style="color: white;" > size 42</p>
+							   <img style="width: 100%;" src="img3.jpg">
+							   <p style="color: white"; class="price">$660.05</p>
+							   <button class="addtocart">Add To Cart</button>
+						   </div>
+							</div>
+	
+						
+					<center>
+			 <div style="color: white"; class="cart-container">
+			   <h2  >Cart</h2>
+			   <table >
+				 <thead>
+				   <tr>
+				   <th><strong style="color: white"; >Product</strong></th>
+				   <th><strong style="color: white"; >Price</strong></th>
+				 </tr>
+				 </thead>
+				 <tbody style="color: white"; id="carttable">
+				 </tbody>
+			   </table>
+			   <hr>
+			   <table id="carttotals">
+				 <tr>
+				   <td><strong style="color: white"; >Items</strong></td>
+				   <td><strong style="color: white"; >Total</strong></td>
+				 </tr>
+				 <tr>
+				   <td>x <span style="color: white"; id="itemsquantity">0</span></td>
+				  
+				   <td>$<span style="color: white"; id="total">0</span></td>
+				 </tr></table>
+	 
+				 
+			   <div class="cart-buttons">  
+				 <button id="emptycart">Reset Cart</button>
+				 <a href="placeorder.html">
+				 <button  id="checkout">Place Order</button> </a>
+			   </div>
+			 </div>
+	 </div>
+</body>
+</html>
+<script type="text/javascript" src="shopmain.js"></script>
